@@ -31,7 +31,7 @@ An official source code for paper DealMVC: Dual Contrastive Calibration for Mult
  Illustration of the motivation of DealMVC. 
 </p>
 <div  align="center">    
-    <img src="./assets/motivation.pdf" width=60%/>
+    <img src="./assets/motivation.jpg" width=60%/>
 </div>
 
 
@@ -43,7 +43,7 @@ An official source code for paper DealMVC: Dual Contrastive Calibration for Mult
  Illustration of DealMVC: Dual Contrastive Calibration for Multi-view Clustering mechanism. 
 </p>
 <div  align="center">    
-    <img src="./assets/overall.pdf" width=60%/>
+    <img src="./assets/overall.jpg" width=60%/>
 </div>
 
 
