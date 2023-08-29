@@ -18,7 +18,6 @@
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
 
 
 An official source code for paper DealMVC: Dual Contrastive Calibration for Multi-view Clustering, accepted by ACM MM 23. Any communications or issues are welcomed. Please contact xihong_edu@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
