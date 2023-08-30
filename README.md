@@ -85,10 +85,11 @@ python train.py
 If you use code or datasets in this repository for your research, please cite our paper.
 
 ```
-@article{DealMVC,
+@inproceedings{DealMVC,
   title={DealMVC: Dual Contrastive Calibration for Multi-view Clustering},
   author={Yang, Xihong and Jin, Jiaqi and Wang, Siwei and Liang, Ke and Liu, Yue and Wen, Yi and Liu, Suyuan and Zhou, Sihang and Liu, Xinwang and Zhu, En},
-  journal={arXiv preprint arXiv:2308.09000},
+  booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
+  pages={},
   year={2023}
 }
 ```
