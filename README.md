@@ -72,10 +72,10 @@ Python package information is summarized in **requirements.txt**:
 
 
 
-### Quick Start
+### Quick Verification
 
 ```
-python train.py 
+python test.py 
 ```
 
 
