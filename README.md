@@ -86,10 +86,10 @@ If you use code or datasets in this repository for your research, please cite ou
 
 ```
 @inproceedings{DealMVC,
-  title={DealMVC: Dual Contrastive Calibration for Multi-view Clustering},
-  author={Yang, Xihong and Jin, Jiaqi and Wang, Siwei and Liang, Ke and Liu, Yue and Wen, Yi and Liu, Suyuan and Zhou, Sihang and Liu, Xinwang and Zhu, En},
-  booktitle={Proceedings of the 31th ACM International Conference on Multimedia},
-  pages={},
+  title={Dealmvc: Dual contrastive calibration for multi-view clustering},
+  author={Yang, Xihong and Jiaqi, Jin and Wang, Siwei and Liang, Ke and Liu, Yue and Wen, Yi and Liu, Suyuan and Zhou, Sihang and Liu, Xinwang and Zhu, En},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={337--346},
   year={2023}
 }
 ```
